@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.aerisli-padding {
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+
+.aerisli-padding:hover {
+  background: gray;
+}
+
+.aeris-menu {
+  height: 350px;
+  overflow: scroll;
+  width: 320px;
+}
